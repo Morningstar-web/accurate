@@ -1,0 +1,16 @@
+
+body {
+  background-color: #7b90d3
+}
+
+h1 {
+  color: #21209c; font-size: 90px; text-shadow: 2px 2px 5px red;
+}
+
+h6 { background-color: #ff165d; font-size: 40px}
+img {background-color: yellow }
+/*class*/
+.red {background-color: red}
+.blue {background-color: blue}
+.yellow {background-color: yellow }
+.green {background-color: green}

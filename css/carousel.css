@@ -1,0 +1,66 @@
+
+
+.btn{
+	margin: 5% 0;
+}
+body {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  color: #5a5a5a;
+}
+
+
+
+
+/* Carousel base class */
+.carousel {
+  margin-bottom: 4rem;
+	background-color: grey;
+}
+
+
+
+.carousel-item {
+  height: 32rem;
+}
+
+
+
+
+
+/* Featurettes
+------------------------- */
+
+.featurette-divider {
+  margin: 5rem 0; /* Space out the Bootstrap <hr> more */
+}
+
+
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+
+  letter-spacing: -.05rem;
+}
+
+
+
+
+@media (min-width: 40em) {
+
+  .carousel-caption p {
+    margin-bottom: 1.25rem;
+    font-size: 1.25rem;
+    line-height: 1.4;
+  }
+
+  .featurette-heading {
+    font-size: 50px;
+  }
+}
+
+@media (min-width: 62em) {
+  .featurette-heading {
+    margin-top: 7rem;
+  }
+}
